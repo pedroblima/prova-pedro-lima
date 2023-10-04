@@ -1,7 +1,9 @@
 # prova-pedro-lima
 
 Criar um projeto chamado prova-seu-nome
-#npx create-expo-app prova-seu-nome
+
+
+npx create-expo-app prova-seu-nome
 
 
 OBS: quem precisar rodar na web, lembrar de instalar os pacotes abaixo e configurar o app.json
